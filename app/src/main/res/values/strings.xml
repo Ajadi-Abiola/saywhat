@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Say what!</string>
+    <string name="title_activity_confirm_name">ConfirmNameActivity</string>
+</resources>
